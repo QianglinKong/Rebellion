@@ -1,0 +1,8 @@
+<application>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="generateColumnProperties" value="true" />
+    <option name="GENERATE_COLUMN_PROPERTIES" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+</application>
