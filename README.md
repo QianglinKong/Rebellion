@@ -1,2 +1,0 @@
-# Rebellion
-Modeling compex system
